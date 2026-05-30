@@ -1,2 +1,9 @@
 venv/
+myenv/
 __pycache__/
+chroma_db/
+.env
+
+# Google Service Account credentials — NEVER commit these
+credentials/
+*.json
